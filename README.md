@@ -6,7 +6,7 @@
 ## Ход работы
 Настроен git клиент<br> 
 и клонирование репозитория<br>
-![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454185.jpg)
+![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454185.jpg) <br>
 Добавлен файл через интерфейс GitHub.
 ![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454186.jpg)
 Были подтянуты изменения в
