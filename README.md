@@ -19,7 +19,7 @@ Cлияние в ветку master <br>
 ![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454190.jpg) <br>
 Решение конфликта <br>
 ![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454208.jpg) <br>
-![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454209.jpg)
+![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454209.jpg) <br>
 Итог слияния <br>
 ![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454226.jpg) <br>
 Удаление побочной ветку
