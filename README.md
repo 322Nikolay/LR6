@@ -14,7 +14,7 @@
 ![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454187.jpg) <br>
 Истории операций для каждой из веток. <br>
 ![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454188.jpg) <br>
-![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454189.jpg) 
+![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454189.jpg)  <br>
 Cлияние в ветку master <br>
 ![](https://github.com/322Nikolay/LR6/blob/port/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%8B/msg671365158-454190.jpg) <br>
 Решение конфликта <br>
